@@ -1,0 +1,16 @@
+{
+  "global_avg_gal_per_mwh": 793,
+  "regional_stress_multipliers": {
+    "us-west": 1.5,
+    "us-east": 0.8,
+    "us-central": 1.0,
+    "eu-west": 0.7,
+    "asia-east": 1.4
+  },
+  "cooling_type_efficiency": {
+    "evaporative": 1.2,
+    "air": 0.1,
+    "liquid": 0.4,
+    "hybrid": 0.8
+  }
+}

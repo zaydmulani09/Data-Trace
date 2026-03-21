@@ -1,0 +1,17 @@
+{
+  "grid_carbon_intensity": {
+    "OR": 103,
+    "WA": 103,
+    "CA": 210,
+    "TX": 395,
+    "IA": 420,
+    "VA": 280,
+    "NC": 310,
+    "IE": 340
+  },
+  "pue_benchmarks": {
+    "hyperscale": 1.1,
+    "enterprise": 1.5,
+    "edge": 2.0
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Remix: DataTrace Jalgie",
+  "description": "Environmental impact tracker for global data center infrastructure. Maps water waste, electricity consumption, and carbon footprints.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
