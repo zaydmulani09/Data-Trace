@@ -1,4 +1,3 @@
-alr bet heres a clean README u can just drop in (sounds like u but still solid/professional)
 
 ---
 
@@ -78,4 +77,3 @@ Made by @zaydmulani09
 
 ---
 
-if u want i can make a more “linkedin flex” version or add badges n stuff too
